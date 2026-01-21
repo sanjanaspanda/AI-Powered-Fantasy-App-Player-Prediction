@@ -1,0 +1,19 @@
+# Large model files
+*.h5
+trained_model.h5
+cricket_model.h5
+
+# Serialized objects
+*.joblib
+*.pkl
+label_enc.joblib
+label_enc.pkl
+label_encoder.joblib
+scaler_X.joblib
+scaler_X.pkl
+scaler_y.joblib
+scaler_y.pkl
+
+# JSON directories
+all_json/
+odis_json/
